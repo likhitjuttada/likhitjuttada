@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/likhitjuttada/static/css/main.ee1fcdb4.css",
+    "main.js": "/likhitjuttada/static/js/main.500ab147.js",
+    "static/js/488.ac70884f.chunk.js": "/likhitjuttada/static/js/488.ac70884f.chunk.js",
+    "index.html": "/likhitjuttada/index.html",
+    "main.ee1fcdb4.css.map": "/likhitjuttada/static/css/main.ee1fcdb4.css.map",
+    "main.500ab147.js.map": "/likhitjuttada/static/js/main.500ab147.js.map",
+    "488.ac70884f.chunk.js.map": "/likhitjuttada/static/js/488.ac70884f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee1fcdb4.css",
+    "static/js/main.500ab147.js"
+  ]
+}
